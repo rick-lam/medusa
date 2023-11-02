@@ -1,6 +1,6 @@
 {
   "name": "@medusajs/cache-redis",
-  "version": "1.8.9",
+  "version": "2.0.0",
   "description": "Redis Cache Module for Medusa",
   "main": "dist/index.js",
   "repository": {
